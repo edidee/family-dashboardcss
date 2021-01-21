@@ -1,0 +1,26 @@
+body{
+    color: #fff;
+
+}
+
+.grid-container{
+    background-color: black;
+}
+
+.third-div{
+    color: black;
+}
+
+.grocery-h5,
+.div-footer{
+    color: #DC3545;
+}
+
+.more-pill{
+    background-color: #DC3545;
+}
+
+
+.price-div{
+    color: black;
+}
