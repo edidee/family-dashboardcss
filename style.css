@@ -154,7 +154,6 @@ background-color: #F45A2B;
   height: 34px;
   margin-top: 0.5rem;
   margin-right: 0.5rem;
-  /* text-align: right; */
   float: right;
 
 }
@@ -328,6 +327,20 @@ progress {
 .grocery-p{
     font-size: 0.8rem;
     margin-left: 0.5rem;
+    /* margin-top: 0.6rem; */
+}
+
+.badge {
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    background-color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
 }
 
 .div-footer{
