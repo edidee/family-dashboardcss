@@ -139,7 +139,7 @@ background-color: #F45A2B;
 .toggle-div{
     width: 25%;
     background-color: #1614AD;
-    margin-left: 3rem;
+    margin-left: 4rem;
     height: 30vh;
     margin-top: 2rem;
     border-radius: 20px;
@@ -221,7 +221,7 @@ input:checked + .slider:before {
 }
 
 .third-row{
-    width: 100%;
+    width: 95%;
     height: auto;
     background-color: #fff;
     margin-top: 2rem;
@@ -275,6 +275,9 @@ progress {
     transform: rotate(-90deg);
     /* background-color: #1614AD; */
 }
+.progress-key{
+    height: auto;
+}
 
 .key-price{
     margin: 1.5rem;
@@ -308,7 +311,7 @@ progress {
      grid-column-end: 4; */
      /* width: 90%; */
     margin-right: 4rem;
-    margin-left: 3rem;
+    margin-left: 4rem;
     margin-top: 2rem; 
      /* background-color: #1614AD; */
 }
@@ -322,10 +325,11 @@ progress {
 .grocerys{
     display: flex;
     margin-top: 1rem;
+    margin-left: 0.6rem;
 }
 
 .grocery-p{
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-left: 0.5rem;
     /* margin-top: 0.6rem; */
 }
@@ -346,4 +350,5 @@ progress {
 .div-footer{
     color: #1614AD;
     margin-top: 1.5rem;
+    margin-left: 0.6rem;
 }
